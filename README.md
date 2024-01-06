@@ -5,6 +5,9 @@
 <h3>Tecnologias utilizadas<h3>
 <p>-HTML</p
 <p>-CSS</p>  
+<br>
+  <p>Projeto responsivo para celular.</p>
+  <br>
   <img src="https://github.com/BrunoCarOliveira/projeto-wecare/blob/main/1.PNG?raw=true"/>
   <br>
   <br>
