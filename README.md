@@ -6,4 +6,6 @@
 <p>-HTML</p
 <p>-CSS</p>  
   <img src="https://github.com/BrunoCarOliveira/projeto-wecare/blob/main/1.PNG?raw=true"/>
+  <br>
+  <br>
   <img src="https://github.com/BrunoCarOliveira/projeto-wecare/blob/main/Capturar.PNG?raw=true"/>
